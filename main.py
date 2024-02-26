@@ -3,10 +3,12 @@
 # Masking - https://stackoverflow.com/questions/11492214/opencv-via-python-is-there-a-fast-way-to-zero-pixels-outside-a-set-of-rectangle
 # Sorting Contours - https://pyimagesearch.com/2015/04/20/sorting-contours-using-python-and-opencv/
 # Contour Approximation - https://pyimagesearch.com/2021/10/06/opencv-contour-approximation/
+# Polylines - https://www.geeksforgeeks.org/python-opencv-cv2-polylines-method/
 # Hough Line Transform Tutorial - used for lines 7-10 of filter.py
 # Masking - used for lines 14-19 in filter.py
 # Sorting Contours - used in lines 9-13
 # Contour Approximation - used in lines 17 - 30 of olines.py
+# Polylines - 44, 55 in olines.py
 
 # Import necessary files and functions
 from filter import * # does masking and filtering
